@@ -15,6 +15,13 @@
 - **Email:** nabeel.sohail2630@outlook.com 
 - **Contact:** +92-345-3628868
 
+| Technology | Version |
+|------------|---------|
+| React      | 17.0.2  |
+| Node.js    | 14.17.0 |
+| MongoDB    | 5.0.2   |
+
+
 <!---
 NabeelSohail-30/NabeelSohail-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
