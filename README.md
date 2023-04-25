@@ -15,11 +15,7 @@
 - **Email:** nabeel.sohail2630@outlook.com 
 - **Contact:** +92-345-3628868
 
-| Technology | Version |
-|------------|---------|
-| React      | 17.0.2  |
-| Node.js    | 14.17.0 |
-| MongoDB    | 5.0.2   |
+[![GitHub Streak](https://streak-stats.demolab.com?user=NabeelSohail)](https://git.io/streak-stats)
 
 
 <!---
