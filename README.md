@@ -9,6 +9,8 @@
 - C#, ASP.NET, SQL Server, ADO.NET, Dialogflow, JS, NodeJs, ExpressJS, Mongodb, ReactJS, Python, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, MS Office, C, C++, Assembly Language, DB Design
 
 <p>
+  <br>
+  <br>
 <a href="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark">
   <img align="center" src="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark" />
 </a>
