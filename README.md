@@ -27,6 +27,23 @@
 <p>
   <br>
   <br>
+  For More Information and Detail, Get in Touch with me:
+  <ul>
+    <li>Portfolio: <a href="https://nabeelsohail2630.wixsite.com/portfolio">https://nabeelsohail2630.wixsite.com/portfolio</a></li>
+    <li>Linkedin: <a href="www.linkedin.com/in/nabeel30/">www.linkedin.com/in/nabeel30/</a></li>
+    <li>Github: <a href="www.github.com/NabeelSohail-30/">www.github.com/NabeelSohail-30/</a></li>
+    <li>Email: nabeel.sohail2630@outlook.com</li>
+    <li>Contact: +92-345-3628868</li>
+  </ul>
+ </p>
+
+<!---
+NabeelSohail-30/NabeelSohail-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+<p>
+  <br>
+  <br>
   <img align="left" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -68,21 +85,4 @@
   <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </p>
-
-<p>
-  <br>
-  <br>
-  For More Information and Detail, Get in Touch with me:
-  <ul>
-    <li>Portfolio: <a href="https://nabeelsohail2630.wixsite.com/portfolio">https://nabeelsohail2630.wixsite.com/portfolio</a></li>
-    <li>Linkedin: <a href="www.linkedin.com/in/nabeel30/">www.linkedin.com/in/nabeel30/</a></li>
-    <li>Github: <a href="www.github.com/NabeelSohail-30/">www.github.com/NabeelSohail-30/</a></li>
-    <li>Email: nabeel.sohail2630@outlook.com</li>
-    <li>Contact: +92-345-3628868</li>
-  </ul>
- </p>
-
-<!---
-NabeelSohail-30/NabeelSohail-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
