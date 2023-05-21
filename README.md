@@ -8,7 +8,11 @@
 - **List of Skills i have expertise:**
 - C#, ASP.NET, SQL Server, ADO.NET, Dialogflow, JS, NodeJs, ExpressJS, Mongodb, ReactJS, Python, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, MS Office, C, C++, Assembly Language, DB Design
 
-
+<p>
+<a href="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark">
+  <img align="center" src="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark" />
+</a>
+</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NabeelSohail-30&show_icons=true&theme=radical" />
 </a>
