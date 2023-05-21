@@ -8,15 +8,28 @@
 - **List of Skills i have expertise:**
 - C#, ASP.NET, SQL Server, ADO.NET, Dialogflow, JS, NodeJs, ExpressJS, Mongodb, ReactJS, Python, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, MS Office, C, C++, Assembly Language, DB Design
 
-![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabeelSohail-30&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelSohail-30&layout=compact&size_weight=0.5&count_weight=0.5)
 
-- For More Information and Detail, Get in Touch with me:
-- **Portfolio:** https://nabeelsohail2630.wixsite.com/portfolio
-- **Linkedin:** www.linkedin.com/in/nabeel30/
-- **Github:** www.github.com/NabeelSohail-30/ 
-- **Email:** nabeel.sohail2630@outlook.com 
-- **Contact:** +92-345-3628868
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NabeelSohail-30&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelSohail-30&layout=compact" />
+</a>
+
+<img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+
+<p>
+  <br>
+  <br>
+  For More Information and Detail, Get in Touch with me:
+<ul>
+  <li>Portfolio: <a href="https://nabeelsohail2630.wixsite.com/portfolio">https://nabeelsohail2630.wixsite.com/portfolio</a></li>
+  <li>Linkedin: <a href="www.linkedin.com/in/nabeel30/">www.linkedin.com/in/nabeel30/</a></li>
+  <li>Github: <a href="www.github.com/NabeelSohail-30/">www.github.com/NabeelSohail-30/</a></li>
+  <li>Email: nabeel.sohail2630@outlook.com</li>
+  <li>Contact: +92-345-3628868</li>
+</ul>
+  </p>
 
 <!---
 NabeelSohail-30/NabeelSohail-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
