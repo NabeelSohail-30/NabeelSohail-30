@@ -12,28 +12,34 @@
 <a href="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark">
   <img align="center" src="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark" />
 </a>
-</p>
+  <br>
+  <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NabeelSohail-30&show_icons=true&theme=radical" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NabeelSohail-30&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelSohail-30&layout=compact" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelSohail-30&layout=compact&theme=dark" />
 </a>
+</p>
 
-<img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+<p>
+  <br>
+  <br>
+  <img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</p>
 
 <p>
   <br>
   <br>
   For More Information and Detail, Get in Touch with me:
-<ul>
-  <li>Portfolio: <a href="https://nabeelsohail2630.wixsite.com/portfolio">https://nabeelsohail2630.wixsite.com/portfolio</a></li>
-  <li>Linkedin: <a href="www.linkedin.com/in/nabeel30/">www.linkedin.com/in/nabeel30/</a></li>
-  <li>Github: <a href="www.github.com/NabeelSohail-30/">www.github.com/NabeelSohail-30/</a></li>
-  <li>Email: nabeel.sohail2630@outlook.com</li>
-  <li>Contact: +92-345-3628868</li>
-</ul>
-  </p>
+  <ul>
+    <li>Portfolio: <a href="https://nabeelsohail2630.wixsite.com/portfolio">https://nabeelsohail2630.wixsite.com/portfolio</a></li>
+    <li>Linkedin: <a href="www.linkedin.com/in/nabeel30/">www.linkedin.com/in/nabeel30/</a></li>
+    <li>Github: <a href="www.github.com/NabeelSohail-30/">www.github.com/NabeelSohail-30/</a></li>
+    <li>Email: nabeel.sohail2630@outlook.com</li>
+    <li>Contact: +92-345-3628868</li>
+  </ul>
+ </p>
 
 <!---
 NabeelSohail-30/NabeelSohail-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
