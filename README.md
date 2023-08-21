@@ -1,12 +1,17 @@
 - 👋 **Hi, I’m @Nabeel Sohail**
 - A driven and passionate CS undergraduate Student from SSUET.
-- **With a diverse set of skills i have expertise in:**
+- **With a diverse set of skills I have expertise in:**
 - Web App Development, Desktop App Development, Chatbot Development, Website Design and Developemnt, Graphic Designing, Video Editing, Photo Editing
-- In Addition to Technical Skills i also have passion and experience in Teaching Topics/Courses of CS/IT and Public Speaking related to CS, IT, Tech.
-- **List of Services that i provide**
+- In Addition to Technical Skills I also have passion and experience in Teaching Topics/Courses of CS/IT and Public Speaking related to CS, IT, and Tech.
+- **List of Services that I provide**
 - Web Application Development, Chatbot Development, Desktop Application Development, Teaching, Database Design & Management, Website Design & Development, Graphic Design & Photo Editing, Video Editing, Technical Writing & Public Speaking, Programming & Development Services
-- **List of Skills i have expertise:**
-- C#, ASP.NET, SQL Server, ADO.NET, Dialogflow, JS, NodeJs, ExpressJS, Mongodb, ReactJS, Python, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, MS Office, C, C++, Assembly Language, DB Design
+- **List of Skills I have expertise:**
+- C#, ASP.NET, ADO.NET, SQL Server
+- HTML, CSS, BS, Tailwind, JS, TS, NodeJs, ExpressJs, MongoDb, ReactJs
+- Dialogflow, Generative AI, OpenAI, LangChain, PineCone, Vector Database, Embedding, LLM, HuggingFace, Transformers
+- Python, SQL, Numpy, Pandas, Matplotlib, Seaborn
+- MS Office, C, C++, Windows, Linux, MacOs
+
 <p>
   <br>
   For More Information and Detail, Get in Touch with me:
