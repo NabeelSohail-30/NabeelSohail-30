@@ -1,5 +1,7 @@
 - 👋 **Hi, I’m @Nabeel Sohail**
 - A driven and passionate CS undergraduate Student from SSUET.
+- Ambassador @ PAFLA - Pakistan Freelancing Association Karachi Chapter
+- Communication Lead @ GDSC SSUET
 - **With a diverse set of skills I have expertise in:**
 - Web App Development, Desktop App Development, Chatbot Development, Website Design and Developemnt, Graphic Designing, Video Editing, Photo Editing
 - In Addition to Technical Skills I also have passion and experience in Teaching Topics/Courses of CS/IT and Public Speaking related to CS, IT, and Tech.
