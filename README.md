@@ -48,11 +48,11 @@
 		<a href="https://github.com/anuraghazra/convoychat">
   		<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelSohail-30&layout=compact&theme=dark" />
 		</a>
-		<br>
+		<br><br>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
   		<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NabeelSohail-30&show_icons=true&theme=dark" />
 		</a>
-		<br>
+		<br><br>
 		<a href="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark">
 		  <img align="center" src="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark" />
 		</a>
@@ -60,9 +60,9 @@
 	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
 	<p align="center">
 		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" width="95%">
-		<br>
+		<br><br>
 		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" width="95%">
-  		<br>
+  		<br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" />
 	</p>
 
