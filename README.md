@@ -28,9 +28,8 @@
 
 <p align='center'>
 	<img src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
-		title="Ranking in Pakistan for Top Github committer" /></div>
-	<img src='https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg' align="center"
-		title="My Coding Stats" />
+		title="Ranking in Pakistan for Top Github committer" />
+	<a href="https://wakatime.com/@3866d34d-4327-415d-a4e7-52a98bd9810b"><img src="https://wakatime.com/badge/user/3866d34d-4327-415d-a4e7-52a98bd9810b.svg" alt="Total time coded since Aug 30 2023" /></a>
 </p>
 
 ## 🌐 Socials:
