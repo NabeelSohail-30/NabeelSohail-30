@@ -26,12 +26,6 @@
   </ul>
  </p>
 
-<p align='center'>
-	<img src='https://user-badge.committers.top/pakistan/shehza-d.svg' align="center"
-		title="Ranking in Pakistan for Top Github committer" />
-	<a href="https://wakatime.com/@3866d34d-4327-415d-a4e7-52a98bd9810b"><img src="https://wakatime.com/badge/user/3866d34d-4327-415d-a4e7-52a98bd9810b.svg" alt="Total time coded since Aug 30 2023" /></a>
-</p>
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nabeelsohail30/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/coder_nabeel30/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nabeel-sohail-a63508200/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/nabeel_sohail30)
 
