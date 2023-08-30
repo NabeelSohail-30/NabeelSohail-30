@@ -48,9 +48,11 @@
 		<a href="https://github.com/anuraghazra/convoychat">
   		<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelSohail-30&layout=compact&theme=dark" />
 		</a>
+		<br>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
   		<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=NabeelSohail-30&show_icons=true&theme=dark" />
 		</a>
+		<br>
 		<a href="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark">
 		  <img align="center" src="https://streak-stats.demolab.com/?user=NabeelSohail-30&theme=dark" />
 		</a>
