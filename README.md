@@ -8,7 +8,7 @@ Nice to e-meet you! I'm Nabeel Sohail, an enthusiastic undergraduate CS student 
 - 🤖 Generative AI and Chatbot Development
 - 🎨 Website Design and Graphic Designing
 
-I am currently an active member of the Karachi Chapter Team at PAFLA and proudly hold the position of Communication Lead at GDSC SSUET. Beyond my technical proficiencies, I'm fueled by a profound ardor for imparting CS and IT knowledge, and I have accumulated expertise in delivering tech-related public speeches.
+I am currently an active member of the Karachi Chapter Team at PAFLA, proudly hold the position of Communication Lead at GDSC SSUET Furthermore, I hold the esteemed position of Executive Committee Member at IEEE SSUET Student Branch. Beyond my technical proficiencies, I'm fueled by a profound ardor for imparting CS and IT knowledge, and I have accumulated expertise in delivering tech-related public speeches.
 
 ## 💼 Services I Offer
 
