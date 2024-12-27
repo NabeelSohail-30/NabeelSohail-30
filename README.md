@@ -1,5 +1,7 @@
 # Greetings, fellow developers! 👋
 
+![Nabeel LinkedIn - Banner (1)](https://github.com/user-attachments/assets/df72f2e9-7d58-4a10-9db9-480b106d9932)
+
 Nice to e-meet you! I'm Nabeel Sohail, an enthusiastic undergraduate CS student hailing from SSUET. My passion for technology has led me to explore a wide range of technical domains, and I love diving into projects that challenge my skills and creativity.
 
 ## 🚀 What I Do
