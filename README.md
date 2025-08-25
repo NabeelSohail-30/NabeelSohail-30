@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Senior AI & Full Stack Software Engineer | AI • ML • GenAI • AgenticAI • Web Development</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://media.licdn.com/dms/image/v2/D4E16AQGvfOuKEfX8YA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734679369533?e=1758758400&v=beta&t=zXpXnVg3TaOpRDZvNPcEEl7_jNrOzdIUT8X3PUWQ7Xg)" width="300px">
+  ![1734679369533](https://github.com/user-attachments/assets/89744b5e-7097-484c-aaff-d9dddada458e)
 </p>
 
 ---
