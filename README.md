@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Nabeel!</h1>
 <h3 align="center">🚀 Senior AI & Full Stack Software Engineer | AI • ML • GenAI • AgenticAI • Web Development</h3>
 
-![1734679369533](https://github.com/user-attachments/assets/89744b5e-7097-484c-aaff-d9dddada458e)
+<img width="2000" height="600" alt="nabeel-linkedin-banner" src="https://github.com/user-attachments/assets/44d029e0-e2c3-4f9d-ad54-0873957abd89" />
 ---
 
 ## 💫 About Me  
